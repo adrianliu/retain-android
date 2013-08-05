@@ -1,9 +1,8 @@
 retain-android
 ==============
 
-Android app to download and view web pages offline
+Simple android app to download and view web pages offline- just scrapes html. Images and other assets are only loaded when viewing in the app and if there is a connection available.  Background and text color can also be set.
 
-Originally located at http://code.google.com/p/retain-android/
 <br/>
 Screenshots 
 <br/>
